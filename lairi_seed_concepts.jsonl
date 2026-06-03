@@ -1,0 +1,5 @@
+{"concept": "Website String", "definition": "A business that has web pages but lacks durable machine-readable entity identity.", "lairi_use": "Low-score classification and consulting trigger."}
+{"concept": "Entity Node", "definition": "A business with consistent identity, structured data, citations, proof assets, and answer-engine recognizability.", "lairi_use": "High-score classification and target architecture."}
+{"concept": "Knowledge Graph Density", "definition": "The degree to which a business is recognized across identifiers, schema, third-party sources, citations, and answer engines.", "lairi_use": "Primary LAIRI metric."}
+{"concept": "Citation Co-Occurrence", "definition": "How often the exact business name appears near its category, founder, geography, credentials, and proof assets.", "lairi_use": "Citation graph scoring."}
+{"concept": "Authority Stack", "definition": "A connected portfolio of profiles, credentials, schema, publications, datasets, reviews, and proof assets.", "lairi_use": "Recommended buildout after failed audit."}
