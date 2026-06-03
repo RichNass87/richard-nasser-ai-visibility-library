@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Richard Nasser AI Visibility Library"
+message: "If you use this dataset or framework, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Nasser"
+    given-names: "Richard"
+abstract: "A public excerpt-level discovery dataset for AI visibility research, answer-engine optimization, entity SEO, citation discovery, knowledge graph density analysis, and Local Enterprise AI Readiness Index development."
+keywords:
+  - AI visibility
+  - answer-engine optimization
+  - AEO
+  - entity SEO
+  - citation discovery
+  - knowledge graph density
+  - authority stack
+  - Local Enterprise AI Readiness Index
+repository-code: "https://github.com/Richnass87/richard-nasser-ai-visibility-library"
+license: "LicenseRef-Rights-Notice"
