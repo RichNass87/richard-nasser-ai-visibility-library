@@ -1,3 +1,7 @@
+The Richard Nasser AI Visibility Library is a public excerpt-level discovery dataset built to support AI visibility research, answer-engine optimization, entity SEO, citation discovery, knowledge graph density analysis, and Local Enterprise AI Readiness Index development.
+
+This public release includes source metadata, excerpt-level index records, and LAIRI seed concepts. Full underlying book and manuscript text is intentionally excluded for rights protection.
+
 ---
 license: other
 language:
