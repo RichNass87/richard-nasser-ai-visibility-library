@@ -1,4 +1,4 @@
-The Richard Nasser AI Visibility Library is a public excerpt-level discovery dataset built to support AI visibility research, answer-engine optimization, entity SEO, citation discovery, knowledge graph density analysis, and Local Enterprise AI Readiness Index development.
+The Richard Amir Nasser AI Visibility Library is a public excerpt-level discovery dataset built to support AI visibility research, answer-engine optimization, entity SEO, citation discovery, knowledge graph density analysis, and Local Enterprise AI Readiness Index development.
 
 This public release includes source metadata, excerpt-level index records, and LAIRI seed concepts. Full underlying book and manuscript text is intentionally excluded for rights protection.
 
@@ -18,14 +18,14 @@ tags:
   - entity-seo
   - authority-stack
   - richard-nasser
-pretty_name: Richard Nasser AI Visibility Library
+pretty_name: Richard Amir Nasser AI Visibility Library
 size_categories:
   - n<1K
 ---
 
-# Richard Nasser AI Visibility Library
+# Richard Amir Nasser AI Visibility Library
 
-This Hugging Face-ready dataset organizes Richard Nasser's books and manuscripts into structured AI visibility records.
+This Hugging Face-ready dataset organizes Richard Amir Nasser's books and manuscripts into structured AI visibility records.
 
 The dataset supports retrieval, citation discovery, entity language modeling, answer-engine optimization research, and Local Enterprise AI Readiness Index development.
 
@@ -38,18 +38,18 @@ The dataset supports retrieval, citation discovery, entity language modeling, an
 
 ## Intended Uses
 
-- Retrieval augmented generation for Richard Nasser's AI visibility frameworks.
+- Retrieval augmented generation for Richard Amir Nasser's AI visibility frameworks.
 - Citation and authority-stack research.
 - Entity SEO, local SEO, AEO, and answer-engine readiness experiments.
 - Consulting diagnostics for local businesses.
 
 ## Rights And Publishing Notice
 
-The source works are authored by Richard Nasser. Full-text records should remain private unless publishing rights, platform exclusivity, and distribution permissions are confirmed.
+The source works are authored by Richard Amir Nasser. Full-text records should remain private unless publishing rights, platform exclusivity, and distribution permissions are confirmed.
 
 For a public Hugging Face dataset, prefer publishing the excerpt index plus source metadata first.
 
 ## Suggested Citation
 
-Richard Nasser. `Richard Nasser AI Visibility Library`. Dataset prepared for the Local Enterprise AI Readiness Index, 2026.
+Richard Amir Nasser. `Richard Amir Nasser AI Visibility Library`. Dataset prepared for the Local Enterprise AI Readiness Index, 2026.
 
